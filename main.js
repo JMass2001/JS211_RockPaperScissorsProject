@@ -16,6 +16,10 @@ const rockPaperScissors = (hand1, hand2) => {
 
   // Write code here
   // Use the unit test to see what is expected
+  
+
+
+  // *I had some code here but I need some more tutoring, I'm not quite understanding.
 
 }
 
